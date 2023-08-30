@@ -1,0 +1,6 @@
+[submodule "apollo-server"]
+	path = apollo-server
+	url = git@github.com:zhyph/apollo-server.git
+[submodule "portfolio-html"]
+	path = portfolio-html
+	url = git@github.com:zhyph/portfolio-html.git
